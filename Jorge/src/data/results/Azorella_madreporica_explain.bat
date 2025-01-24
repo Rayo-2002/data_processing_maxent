@@ -1,0 +1,2 @@
+java -mx500m -cp "/C:/Users/JorgeJF/PycharmProjects/lucas/Jorge/src/maxent.jar;C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\maxent.jar" density.Explain -l C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\results\Azorella_madreporica.lambdas -c C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\results\Azorella_madreporica.asc C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc
+@if errorlevel 1 pause

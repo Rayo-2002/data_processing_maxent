@@ -1,0 +1,968 @@
+Mon Jan 20 12:19:16 CET 2025
+MaxEnt version 3.4.4
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_1.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_10.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_11.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_12.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_13.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_14.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_15.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_16.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_17.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_18.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_19.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_2.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_3.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_4.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_5.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_6.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_7.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_8.asc
+Checking header of C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_9.asc
+Reading samples from datos_azorella_processed.csv
+Read samples: max memory 477626368, total allocated 128974848, free 117359208, used 11615640, increment 11615640
+Warning: interpreting latitude column of sample file as latitude
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_1.asc size 14682252, max memory = 477626368
+Reading file wc2.1_10m_bio_1.asc
+Time since start: 1.775
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 234356736, free 209401088, used 24955648, increment 13340008
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_1.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_10.asc size 14640848, max memory = 477626368
+Reading file wc2.1_10m_bio_10.asc
+Time since start: 3.12
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 252706816, free 139881424, used 112825392, increment 87869744
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_10.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_11.asc size 14683535, max memory = 477626368
+Reading file wc2.1_10m_bio_11.asc
+Time since start: 4.181
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 258998272, free 244432208, used 14566064, increment -98259328
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_11.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_12.asc size 11340117, max memory = 477626368
+Reading file wc2.1_10m_bio_12.asc
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 246415360, free 88742688, used 157672672, increment 143106608
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_12.mxe
+Time since start: 5.564
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_13.asc size 11171450, max memory = 477626368
+Reading file wc2.1_10m_bio_13.asc
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 232259584, free 79588544, used 152671040, increment -5001632
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_13.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_14.asc size 10873740, max memory = 477626368
+Reading file wc2.1_10m_bio_14.asc
+Time since start: 7.369
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 217055232, free 178042456, used 39012776, increment -113658264
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_14.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_15.asc size 14372807, max memory = 477626368
+Reading file wc2.1_10m_bio_15.asc
+Time since start: 8.703
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 210239488, free 159952776, used 50286712, increment 11273936
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_15.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_16.asc size 11266333, max memory = 477626368
+Reading file wc2.1_10m_bio_16.asc
+Time since start: 10.059
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 191889408, free 166767520, used 25121888, increment -25164824
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_16.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_17.asc size 11018351, max memory = 477626368
+Reading file wc2.1_10m_bio_17.asc
+Time since start: 11.552
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 187695104, free 158755352, used 28939752, increment 3817864
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_17.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_18.asc size 11145815, max memory = 477626368
+Reading file wc2.1_10m_bio_18.asc
+Time since start: 12.904
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 173015040, free 110728080, used 62286960, increment 33347208
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_18.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_19.asc size 11141054, max memory = 477626368
+Reading file wc2.1_10m_bio_19.asc
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 163053568, free 115829056, used 47224512, increment -15062448
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_19.mxe
+Time since start: 14.146
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_2.asc size 14613075, max memory = 477626368
+Reading file wc2.1_10m_bio_2.asc
+Time since start: 15.499
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 177733632, free 110346720, used 67386912, increment 20162400
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_2.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_3.asc size 14500580, max memory = 477626368
+Reading file wc2.1_10m_bio_3.asc
+Time since start: 16.961
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 221249536, free 63808552, used 157440984, increment 90054072
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_3.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_4.asc size 13905407, max memory = 477626368
+Reading file wc2.1_10m_bio_4.asc
+Time since start: 18.521
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 249561088, free 130156344, used 119404744, increment -38036240
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_4.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_5.asc size 14602502, max memory = 477626368
+Reading file wc2.1_10m_bio_5.asc
+Time since start: 19.682
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 263716864, free 84045208, used 179671656, increment 60266912
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_5.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_6.asc size 14671477, max memory = 477626368
+Reading file wc2.1_10m_bio_6.asc
+Time since start: 20.821
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 263716864, free 213129304, used 50587560, increment -129084096
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_6.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_7.asc size 14486156, max memory = 477626368
+Reading file wc2.1_10m_bio_7.asc
+Time since start: 22.169
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 263716864, free 170128360, used 93588504, increment 43000944
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_7.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_8.asc size 14628175, max memory = 477626368
+Reading file wc2.1_10m_bio_8.asc
+Time since start: 23.616
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 252706816, free 113628512, used 139078304, increment 45489800
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_8.mxe
+Converting file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\wc2.1_10m_bio_9.asc size 14695892, max memory = 477626368
+Reading file wc2.1_10m_bio_9.asc
+Time since start: 24.847
+FLOAT, 208615 pixels with data
+readGrid: max memory 477626368, total allocated 238551040, free 187969104, used 50581936, increment -88496368
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc\maxent.cache\wc2.1_10m_bio_9.mxe
+Extractor: max memory 477626368, total allocated 238551040, free 187589256, used 50961784, increment 379848
+Extracting random background and sample data
+Time since start: 26.279
+208615 points with values for all grids
+Adding samples to background in feature space
+Command line used:  environmentallayers=C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc samplesfile=C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\azorella\datos_azorella_processed.csv outputdirectory=C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\results autorun randomseed threads=2 responsecurves jackknife plots=true
+Command line to repeat: java density.MaxEnt nowarnings noprefixes responsecurves jackknife outputdirectory=C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\results samplesfile=C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\azorella\datos_azorella_processed.csv environmentallayers=C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc randomseed autorun threads=2
+Species: Azorella_madreporica
+Layers: wc2.1_10m_bio_1 wc2.1_10m_bio_10 wc2.1_10m_bio_11 wc2.1_10m_bio_12 wc2.1_10m_bio_13 wc2.1_10m_bio_14 wc2.1_10m_bio_15 wc2.1_10m_bio_16 wc2.1_10m_bio_17 wc2.1_10m_bio_18 wc2.1_10m_bio_19 wc2.1_10m_bio_2 wc2.1_10m_bio_3 wc2.1_10m_bio_4 wc2.1_10m_bio_5 wc2.1_10m_bio_6 wc2.1_10m_bio_7 wc2.1_10m_bio_8 wc2.1_10m_bio_9
+Layertypes: Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous
+responsecurves: true
+jackknife: true
+outputdirectory: C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\results
+samplesfile: C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\azorella\datos_azorella_processed.csv
+environmentallayers: C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\layerPreProcess\wc2.1_10m_bio_asc
+randomseed: true
+autorun: true
+threads: 2
+
+getSamples: max memory 477626368, total allocated 238551040, free 175686024, used 62865016, increment 11903232
+Making features
+makeFeatures: max memory 477626368, total allocated 238551040, free 157052080, used 81498960, increment 18633944
+Time since start: 27.28
+Azorella_madreporica: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 238551040, free 108860000, used 129691040, increment 48192080
+linearPredictor: max memory 477626368, total allocated 238551040, free 108860000, used 129691040, increment 0
+Time since start: 28.294
+FeaturedSpace: max memory 477626368, total allocated 238551040, free 108860000, used 129691040, increment 0
+Sequential: max memory 477626368, total allocated 238551040, free 108860000, used 129691040, increment 0
+Initial loss: 9.212737496575905
+Time since start: 78.681
+500: time = 50,383000 loss = 4,591452
+Resulting gain: 4.621285841763251
+Time since start: 80.69
+Projecting...
+Writing file C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\results\Azorella_madreporica.asc
+Time since start: 83.459
+Writing C:\Users\JorgeJF\PycharmProjects\lucas\Jorge\src\data\results\plots\Azorella_madreporica.png
+Time since start: 84.493
+Azorella_madreporica response curves
+Time since start: 87.184
+Response curve: only wc2.1_10m_bio_1
+Response curve: only wc2.1_10m_bio_10
+Response curve: only wc2.1_10m_bio_11
+Response curve: only wc2.1_10m_bio_12
+Response curve: only wc2.1_10m_bio_13
+Response curve: only wc2.1_10m_bio_14
+Response curve: only wc2.1_10m_bio_15
+Response curve: only wc2.1_10m_bio_16
+Response curve: only wc2.1_10m_bio_17
+Response curve: only wc2.1_10m_bio_18
+Response curve: only wc2.1_10m_bio_19
+Response curve: only wc2.1_10m_bio_2
+Response curve: only wc2.1_10m_bio_3
+Response curve: only wc2.1_10m_bio_4
+Response curve: only wc2.1_10m_bio_5
+Response curve: only wc2.1_10m_bio_6
+Response curve: only wc2.1_10m_bio_7
+Response curve: only wc2.1_10m_bio_8
+Response curve: only wc2.1_10m_bio_9
+Making features
+Making features
+makeFeatures: max memory 477626368, total allocated 210239488, free 84164816, used 126074672, increment -3616368
+Azorella_madreporica wc2.1_10m_bio_10: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+makeFeatures: max memory 477626368, total allocated 210239488, free 84149080, used 126090408, increment 15736
+Azorella_madreporica wc2.1_10m_bio_1: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 210239488, free 81799296, used 128440192, increment 2349784
+linearPredictor: max memory 477626368, total allocated 210239488, free 81719088, used 128520400, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 210239488, free 81719088, used 128520400, increment 0
+Sequential: max memory 477626368, total allocated 210239488, free 81719088, used 128520400, increment 0
+Initial loss: 9.212737496575905
+24 samples
+Density: max memory 477626368, total allocated 210239488, free 78872184, used 131367304, increment 2846904
+linearPredictor: max memory 477626368, total allocated 210239488, free 78791976, used 131447512, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 210239488, free 78791976, used 131447512, increment 0
+Sequential: max memory 477626368, total allocated 210239488, free 78791976, used 131447512, increment 0
+Initial loss: 9.212737496575905
+Time since start: 88.87
+180: time = 1,640000 loss = 7,943945
+Resulting gain: 1.2687920232072045
+180: time = 1,650000 loss = 8,387324
+Resulting gain: 0.8254130962971242
+Azorella_madreporica response curves
+Azorella_madreporica response curves
+Making features
+Making features
+makeFeatures: max memory 477626368, total allocated 235929600, free 69364040, used 166565560, increment 35118048
+Azorella_madreporica wc2.1_10m_bio_11: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+makeFeatures: max memory 477626368, total allocated 235929600, free 69348504, used 166581096, increment 15536
+Azorella_madreporica wc2.1_10m_bio_12: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 235929600, free 66706712, used 169222888, increment 2641792
+linearPredictor: max memory 477626368, total allocated 235929600, free 66626504, used 169303096, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 235929600, free 66626504, used 169303096, increment 0
+Sequential: max memory 477626368, total allocated 235929600, free 66626504, used 169303096, increment 0
+Initial loss: 9.212737496575905
+24 samples
+Density: max memory 477626368, total allocated 235929600, free 65422888, used 170506712, increment 1203616
+linearPredictor: max memory 477626368, total allocated 235929600, free 65422888, used 170506712, increment 0
+FeaturedSpace: max memory 477626368, total allocated 235929600, free 64224408, used 171705192, increment 1198480
+Sequential: max memory 477626368, total allocated 235929600, free 64224408, used 171705192, increment 0
+Initial loss: 9.212737496575905
+Time since start: 90.102
+120: time = 1,019000 loss = 8,983513
+Resulting gain: 0.2292244985187093
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 268959744, free 193217328, used 75742416, increment -95962776
+Azorella_madreporica wc2.1_10m_bio_13: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 268959744, free 190017368, used 78942376, increment 3199960
+linearPredictor: max memory 477626368, total allocated 268959744, free 190017368, used 78942376, increment 0
+FeaturedSpace: max memory 477626368, total allocated 268959744, free 188329408, used 80630336, increment 1687960
+Sequential: max memory 477626368, total allocated 268959744, free 188329408, used 80630336, increment 0
+Initial loss: 9.212737496575905
+100: time = 1,401000 loss = 7,457286
+Resulting gain: 1.7554515506183845
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 268959744, free 138491488, used 130468256, increment 49837920
+Azorella_madreporica wc2.1_10m_bio_14: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 268959744, free 133812648, used 135147096, increment 4678840
+linearPredictor: max memory 477626368, total allocated 268959744, free 133812648, used 135147096, increment 0
+FeaturedSpace: max memory 477626368, total allocated 268959744, free 133812648, used 135147096, increment 0
+Sequential: max memory 477626368, total allocated 268959744, free 133805568, used 135154176, increment 7080
+Initial loss: 9.212737496575905
+Time since start: 91.468
+180: time = 1,181000 loss = 9,110328
+Resulting gain: 0.1024097666788002
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 268959744, free 59446384, used 209513360, increment 74359184
+Azorella_madreporica wc2.1_10m_bio_15: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 268959744, free 57904480, used 211055264, increment 1541904
+linearPredictor: max memory 477626368, total allocated 268959744, free 57904480, used 211055264, increment 0
+FeaturedSpace: max memory 477626368, total allocated 268959744, free 57904480, used 211055264, increment 0
+Sequential: max memory 477626368, total allocated 268959744, free 57904480, used 211055264, increment 0
+Initial loss: 9.212737496575905
+160: time = 1,219000 loss = 8,935803
+Resulting gain: 0.2769344998263801
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 269484032, free 182918968, used 86565064, increment -124490200
+Azorella_madreporica wc2.1_10m_bio_16: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 269484032, free 181411064, used 88072968, increment 1507904
+linearPredictor: max memory 477626368, total allocated 269484032, free 181411064, used 88072968, increment 0
+FeaturedSpace: max memory 477626368, total allocated 269484032, free 181411064, used 88072968, increment 0
+Sequential: max memory 477626368, total allocated 269484032, free 181411064, used 88072968, increment 0
+Initial loss: 9.212737496575905
+Time since start: 93.653
+200: time = 1,552000 loss = 9,044124
+Resulting gain: 0.16861380450687413
+Azorella_madreporica response curves
+140: time = 2,037000 loss = 9,067072
+Resulting gain: 0.1456653998012598
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 279969792, free 113341032, used 166628760, increment 78555792
+Azorella_madreporica wc2.1_10m_bio_17: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 279969792, free 109998304, used 169971488, increment 3342728
+linearPredictor: max memory 477626368, total allocated 279969792, free 109998304, used 169971488, increment 0
+FeaturedSpace: max memory 477626368, total allocated 279969792, free 109998304, used 169971488, increment 0
+Sequential: max memory 477626368, total allocated 279969792, free 109998304, used 169971488, increment 0
+Initial loss: 9.212737496575905
+Making features
+makeFeatures: max memory 477626368, total allocated 279969792, free 105233064, used 174736728, increment 4765240
+Azorella_madreporica wc2.1_10m_bio_18: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 279969792, free 105202272, used 174767520, increment 30792
+linearPredictor: max memory 477626368, total allocated 279969792, free 105202272, used 174767520, increment 0
+FeaturedSpace: max memory 477626368, total allocated 279969792, free 105202272, used 174767520, increment 0
+Sequential: max memory 477626368, total allocated 279969792, free 105202272, used 174767520, increment 0
+Initial loss: 9.212737496575905
+Time since start: 95.126
+160: time = 1,259000 loss = 8,918141
+Resulting gain: 0.2945960230773661
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 279969792, free 164959112, used 115010680, increment -59756840
+Azorella_madreporica wc2.1_10m_bio_19: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 279969792, free 161493344, used 118476448, increment 3465768
+linearPredictor: max memory 477626368, total allocated 279969792, free 161493344, used 118476448, increment 0
+FeaturedSpace: max memory 477626368, total allocated 279969792, free 161493344, used 118476448, increment 0
+Sequential: max memory 477626368, total allocated 279969792, free 161493344, used 118476448, increment 0
+Initial loss: 9.212737496575905
+Time since start: 96.625
+180: time = 1,303000 loss = 8,584254
+Resulting gain: 0.6284837486148316
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 279969792, free 140652200, used 139317592, increment 20841144
+Azorella_madreporica wc2.1_10m_bio_2: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 279969792, free 136873304, used 143096488, increment 3778896
+linearPredictor: max memory 477626368, total allocated 279969792, free 136793096, used 143176696, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 279969792, free 136768840, used 143200952, increment 24256
+Sequential: max memory 477626368, total allocated 279969792, free 136768840, used 143200952, increment 0
+Initial loss: 9.212737496575905
+400: time = 3,039000 loss = 8,272789
+Resulting gain: 0.9399487540695723
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 280494080, free 220618224, used 59875856, increment -83325096
+Azorella_madreporica wc2.1_10m_bio_3: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 280494080, free 216175288, used 64318792, increment 4442936
+linearPredictor: max memory 477626368, total allocated 280494080, free 214291712, used 66202368, increment 1883576
+FeaturedSpace: max memory 477626368, total allocated 280494080, free 214291712, used 66202368, increment 0
+Sequential: max memory 477626368, total allocated 280494080, free 214291712, used 66202368, increment 0
+Initial loss: 9.212737496575905
+Time since start: 97.629
+60: time = 0,830000 loss = 8,757645
+Resulting gain: 0.4550927052603768
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 280494080, free 59990048, used 220504032, increment 154301664
+Azorella_madreporica wc2.1_10m_bio_4: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 280494080, free 55061952, used 225432128, increment 4928096
+linearPredictor: max memory 477626368, total allocated 280494080, free 55061952, used 225432128, increment 0
+FeaturedSpace: max memory 477626368, total allocated 280494080, free 220621680, used 59872400, increment -165559728
+Sequential: max memory 477626368, total allocated 280494080, free 220621680, used 59872400, increment 0
+Initial loss: 9.212737496575905
+Time since start: 100.998
+360: time = 3,767000 loss = 7,756046
+Resulting gain: 1.4566912989744294
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 270532608, free 123330504, used 147202104, increment 87329704
+Azorella_madreporica wc2.1_10m_bio_5: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 270532608, free 116649352, used 153883256, increment 6681152
+linearPredictor: max memory 477626368, total allocated 270532608, free 116649352, used 153883256, increment 0
+FeaturedSpace: max memory 477626368, total allocated 270532608, free 114974736, used 155557872, increment 1674616
+Sequential: max memory 477626368, total allocated 270532608, free 114974736, used 155557872, increment 0
+Initial loss: 9.212737496575905
+360: time = 3,490000 loss = 7,471827
+Resulting gain: 1.7409106640043266
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 267386880, free 183777296, used 83609584, increment -71948288
+Azorella_madreporica wc2.1_10m_bio_6: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 267386880, free 179119264, used 88267616, increment 4658032
+linearPredictor: max memory 477626368, total allocated 267386880, free 179119264, used 88267616, increment 0
+FeaturedSpace: max memory 477626368, total allocated 267386880, free 179119264, used 88267616, increment 0
+Sequential: max memory 477626368, total allocated 267386880, free 179119264, used 88267616, increment 0
+Initial loss: 9.212737496575905
+Time since start: 103.61
+220: time = 2,062000 loss = 7,502565
+Resulting gain: 1.71017262993613
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 278921216, free 93274960, used 185646256, increment 97378640
+Azorella_madreporica wc2.1_10m_bio_7: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 278921216, free 85013784, used 193907432, increment 8261176
+linearPredictor: max memory 477626368, total allocated 278921216, free 85013784, used 193907432, increment 0
+FeaturedSpace: max memory 477626368, total allocated 278921216, free 85013784, used 193907432, increment 0
+Sequential: max memory 477626368, total allocated 278921216, free 85013784, used 193907432, increment 0
+Initial loss: 9.212737496575905
+360: time = 3,358000 loss = 8,556310
+Resulting gain: 0.6564272331090901
+Azorella_madreporica response curves
+Time since start: 104.691
+Making features
+makeFeatures: max memory 477626368, total allocated 277348352, free 191063136, used 86285216, increment -107622216
+Azorella_madreporica wc2.1_10m_bio_8: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 277348352, free 184656096, used 92692256, increment 6407040
+linearPredictor: max memory 477626368, total allocated 277348352, free 184656096, used 92692256, increment 0
+FeaturedSpace: max memory 477626368, total allocated 277348352, free 183124296, used 94224056, increment 1531800
+Sequential: max memory 477626368, total allocated 277348352, free 183124296, used 94224056, increment 0
+Initial loss: 9.212737496575905
+Time since start: 105.992
+100: time = 1,275000 loss = 7,471241
+Resulting gain: 1.7414960164873197
+Azorella_madreporica response curves
+Making features
+makeFeatures: max memory 477626368, total allocated 277872640, free 132528864, used 145343776, increment 51119720
+Azorella_madreporica wc2.1_10m_bio_9: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 277872640, free 125628600, used 152244040, increment 6900264
+linearPredictor: max memory 477626368, total allocated 277872640, free 125628600, used 152244040, increment 0
+FeaturedSpace: max memory 477626368, total allocated 277872640, free 125628600, used 152244040, increment 0
+Sequential: max memory 477626368, total allocated 277872640, free 125628600, used 152244040, increment 0
+Initial loss: 9.212737496575905
+240: time = 2,434000 loss = 8,325650
+Resulting gain: 0.8870875779504832
+Azorella_madreporica response curves
+Time since start: 109.575
+300: time = 3,429000 loss = 7,642264
+Resulting gain: 1.570473135791996
+Azorella_madreporica response curves
+Time since start: 111.603
+Jackknife: leave wc2.1_10m_bio_1 out
+Jackknife: leave wc2.1_10m_bio_10 out
+Jackknife: leave wc2.1_10m_bio_11 out
+Jackknife: leave wc2.1_10m_bio_12 out
+Jackknife: leave wc2.1_10m_bio_13 out
+Jackknife: leave wc2.1_10m_bio_14 out
+Jackknife: leave wc2.1_10m_bio_15 out
+Jackknife: leave wc2.1_10m_bio_16 out
+Jackknife: leave wc2.1_10m_bio_17 out
+Jackknife: leave wc2.1_10m_bio_18 out
+Jackknife: leave wc2.1_10m_bio_19 out
+Jackknife: leave wc2.1_10m_bio_2 out
+Jackknife: leave wc2.1_10m_bio_3 out
+Jackknife: leave wc2.1_10m_bio_4 out
+Jackknife: leave wc2.1_10m_bio_5 out
+Jackknife: leave wc2.1_10m_bio_6 out
+Jackknife: leave wc2.1_10m_bio_7 out
+Jackknife: leave wc2.1_10m_bio_8 out
+Jackknife: leave wc2.1_10m_bio_9 out
+Jackknife: only wc2.1_10m_bio_1
+Jackknife: only wc2.1_10m_bio_10
+Jackknife: only wc2.1_10m_bio_11
+Jackknife: only wc2.1_10m_bio_12
+Jackknife: only wc2.1_10m_bio_13
+Jackknife: only wc2.1_10m_bio_14
+Jackknife: only wc2.1_10m_bio_15
+Jackknife: only wc2.1_10m_bio_16
+Jackknife: only wc2.1_10m_bio_17
+Jackknife: only wc2.1_10m_bio_18
+Jackknife: only wc2.1_10m_bio_19
+Jackknife: only wc2.1_10m_bio_2
+Jackknife: only wc2.1_10m_bio_3
+Jackknife: only wc2.1_10m_bio_4
+Jackknife: only wc2.1_10m_bio_5
+Jackknife: only wc2.1_10m_bio_6
+Jackknife: only wc2.1_10m_bio_7
+Jackknife: only wc2.1_10m_bio_8
+Jackknife: only wc2.1_10m_bio_9
+Making features
+Making features
+makeFeatures: max memory 477626368, total allocated 258473984, free 159998032, used 98475952, increment -53768088
+Azorella_madreporica wc2.1_10m_bio_10: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+makeFeatures: max memory 477626368, total allocated 258473984, free 159979352, used 98494632, increment 18680
+Azorella_madreporica wc2.1_10m_bio_1: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+24 samples
+Density: max memory 477626368, total allocated 258473984, free 108702376, used 149771608, increment 51276976
+linearPredictor: max memory 477626368, total allocated 258473984, free 108702376, used 149771608, increment 0
+Density: max memory 477626368, total allocated 258473984, free 108702376, used 149771608, increment 0
+linearPredictor: max memory 477626368, total allocated 258473984, free 108702376, used 149771608, increment 0
+FeaturedSpace: max memory 477626368, total allocated 258473984, free 108702376, used 149771608, increment 0
+Sequential: max memory 477626368, total allocated 258473984, free 108702376, used 149771608, increment 0
+Initial loss: 9.212737496575905
+FeaturedSpace: max memory 477626368, total allocated 258473984, free 108695968, used 149778016, increment 6408
+Sequential: max memory 477626368, total allocated 258473984, free 108695968, used 149778016, increment 0
+Initial loss: 9.212737496575905
+Time since start: 148.043
+500: time = 35,800000 loss = 4,591312
+Making features
+500: time = 35,925000 loss = 4,596206
+Making features
+makeFeatures: max memory 477626368, total allocated 368050176, free 176150152, used 191900024, increment 42122008
+Azorella_madreporica wc2.1_10m_bio_11: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+makeFeatures: max memory 477626368, total allocated 368050176, free 160076104, used 207974072, increment 16074048
+Azorella_madreporica wc2.1_10m_bio_12: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 368050176, free 128629480, used 239420696, increment 31446624
+linearPredictor: max memory 477626368, total allocated 368050176, free 128629480, used 239420696, increment 0
+FeaturedSpace: max memory 477626368, total allocated 368050176, free 126819720, used 241230456, increment 1809760
+Sequential: max memory 477626368, total allocated 368050176, free 126819720, used 241230456, increment 0
+Initial loss: 9.212737496575905
+24 samples
+Density: max memory 477626368, total allocated 368050176, free 81982016, used 286068160, increment 44837704
+linearPredictor: max memory 477626368, total allocated 368050176, free 81901808, used 286148368, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 330301440, free 218561776, used 111739664, increment -174408704
+Sequential: max memory 477626368, total allocated 330301440, free 218561776, used 111739664, increment 0
+Initial loss: 9.212737496575905
+Time since start: 183.881
+500: time = 35,211000 loss = 4,591419
+Making features
+makeFeatures: max memory 477626368, total allocated 364904448, free 205219536, used 159684912, increment 47945248
+Azorella_madreporica wc2.1_10m_bio_13: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 376438784, free 218186304, used 158252480, increment -1432432
+linearPredictor: max memory 477626368, total allocated 376438784, free 218106096, used 158332688, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 376438784, free 215802376, used 160636408, increment 2303720
+Sequential: max memory 477626368, total allocated 376438784, free 215802376, used 160636408, increment 0
+Initial loss: 9.212737496575905
+Time since start: 185.09
+500: time = 36,157000 loss = 4,592045
+Making features
+makeFeatures: max memory 477626368, total allocated 367001600, free 164601456, used 202400144, increment 41763736
+Azorella_madreporica wc2.1_10m_bio_14: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 368050176, free 182071800, used 185978376, increment -16421768
+linearPredictor: max memory 477626368, total allocated 368050176, free 182071800, used 185978376, increment 0
+FeaturedSpace: max memory 477626368, total allocated 368050176, free 178452200, used 189597976, increment 3619600
+Sequential: max memory 477626368, total allocated 368050176, free 178452200, used 189597976, increment 0
+Initial loss: 9.212737496575905
+Time since start: 221.779
+500: time = 37,321000 loss = 4,591141
+Making features
+makeFeatures: max memory 477626368, total allocated 362807296, free 38398824, used 324408472, increment 134810496
+Azorella_madreporica wc2.1_10m_bio_15: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 376438784, free 56730480, used 319708304, increment -4700168
+linearPredictor: max memory 477626368, total allocated 376438784, free 56730480, used 319708304, increment 0
+FeaturedSpace: max memory 477626368, total allocated 376438784, free 54636400, used 321802384, increment 2094080
+Sequential: max memory 477626368, total allocated 376438784, free 54636400, used 321802384, increment 0
+Initial loss: 9.212737496575905
+Time since start: 223.526
+500: time = 37,780000 loss = 4,591449
+Making features
+makeFeatures: max memory 477626368, total allocated 354942976, free 141067632, used 213875344, increment -107927040
+Azorella_madreporica wc2.1_10m_bio_16: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 361758720, free 161604256, used 200154464, increment -13720880
+linearPredictor: max memory 477626368, total allocated 361758720, free 161604256, used 200154464, increment 0
+FeaturedSpace: max memory 477626368, total allocated 361758720, free 157976640, used 203782080, increment 3627616
+Sequential: max memory 477626368, total allocated 361758720, free 157976640, used 203782080, increment 0
+Initial loss: 9.212737496575905
+Time since start: 257.759
+500: time = 35,359000 loss = 4,591550
+Making features
+makeFeatures: max memory 477626368, total allocated 354942976, free 122334200, used 232608776, increment 28826696
+Azorella_madreporica wc2.1_10m_bio_17: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 371195904, free 136490600, used 234705304, increment 2096528
+linearPredictor: max memory 477626368, total allocated 371195904, free 136410392, used 234785512, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 371195904, free 134216728, used 236979176, increment 2193664
+Sequential: max memory 477626368, total allocated 371195904, free 134216728, used 236979176, increment 0
+Initial loss: 9.212737496575905
+Time since start: 261.311
+500: time = 37,145000 loss = 4,591099
+Making features
+makeFeatures: max memory 477626368, total allocated 364380160, free 139064632, used 225315528, increment -11663648
+Azorella_madreporica wc2.1_10m_bio_18: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 364380160, free 16815408, used 347564752, increment 122249224
+linearPredictor: max memory 477626368, total allocated 364380160, free 16815408, used 347564752, increment 0
+FeaturedSpace: max memory 477626368, total allocated 353370112, free 241739568, used 111630544, increment -235934208
+Sequential: max memory 477626368, total allocated 353370112, free 241739568, used 111630544, increment 0
+Initial loss: 9.212737496575905
+Time since start: 292.362
+400: time = 30,381000 loss = 4,635438
+Making features
+makeFeatures: max memory 477626368, total allocated 364380160, free 215455176, used 148924984, increment 37294440
+Azorella_madreporica wc2.1_10m_bio_19: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 368050176, free 218955952, used 149094224, increment 169240
+linearPredictor: max memory 477626368, total allocated 368050176, free 218955952, used 149094224, increment 0
+FeaturedSpace: max memory 477626368, total allocated 368050176, free 214729536, used 153320640, increment 4226416
+Sequential: max memory 477626368, total allocated 368050176, free 214729536, used 153320640, increment 0
+Initial loss: 9.212737496575905
+Time since start: 295.957
+500: time = 37,669000 loss = 4,591114
+Making features
+makeFeatures: max memory 477626368, total allocated 354418688, free 161277712, used 193140976, increment 39820336
+Azorella_madreporica wc2.1_10m_bio_2: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 349175808, free 150507528, used 198668280, increment 5527304
+linearPredictor: max memory 477626368, total allocated 349175808, free 150507528, used 198668280, increment 0
+FeaturedSpace: max memory 477626368, total allocated 349175808, free 146928440, used 202247368, increment 3579088
+Sequential: max memory 477626368, total allocated 349175808, free 146928440, used 202247368, increment 0
+Initial loss: 9.212737496575905
+Time since start: 330.549
+500: time = 37,656000 loss = 4,618490
+Making features
+makeFeatures: max memory 477626368, total allocated 369098752, free 165453600, used 203645152, increment 1397784
+Azorella_madreporica wc2.1_10m_bio_3: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 369098752, free 23113624, used 345985128, increment 142339976
+linearPredictor: max memory 477626368, total allocated 369098752, free 23113624, used 345985128, increment 0
+FeaturedSpace: max memory 477626368, total allocated 369098752, free 21199840, used 347898912, increment 1913784
+Sequential: max memory 477626368, total allocated 369098752, free 21199840, used 347898912, increment 0
+Initial loss: 9.212737496575905
+500: time = 34,722000 loss = 4,662253
+Making features
+Time since start: 331.643
+makeFeatures: max memory 477626368, total allocated 361758720, free 185272936, used 176485784, increment -171413128
+Azorella_madreporica wc2.1_10m_bio_4: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 367525888, free 205174888, used 162351000, increment -14134784
+linearPredictor: max memory 477626368, total allocated 367525888, free 205174888, used 162351000, increment 0
+FeaturedSpace: max memory 477626368, total allocated 367525888, free 201793816, used 165732072, increment 3381072
+Sequential: max memory 477626368, total allocated 367525888, free 200103280, used 167422608, increment 1690536
+Initial loss: 9.212737496575905
+Time since start: 366.199
+500: time = 35,126000 loss = 4,591115
+Making features
+makeFeatures: max memory 477626368, total allocated 353370112, free 188572176, used 164797936, increment -2624672
+Azorella_madreporica wc2.1_10m_bio_5: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 353370112, free 55097408, used 298272704, increment 133474768
+linearPredictor: max memory 477626368, total allocated 353370112, free 55097408, used 298272704, increment 0
+FeaturedSpace: max memory 477626368, total allocated 353370112, free 53269624, used 300100488, increment 1827784
+Sequential: max memory 477626368, total allocated 353370112, free 53269624, used 300100488, increment 0
+Initial loss: 9.212737496575905
+Time since start: 367.362
+500: time = 35,386000 loss = 4,652611
+Making features
+makeFeatures: max memory 477626368, total allocated 371720192, free 84769488, used 286950704, increment -13149784
+Azorella_madreporica wc2.1_10m_bio_6: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 358088704, free 188880616, used 169208088, increment -117742616
+linearPredictor: max memory 477626368, total allocated 358088704, free 188800408, used 169288296, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 358088704, free 187231240, used 170857464, increment 1569168
+Sequential: max memory 477626368, total allocated 358088704, free 187231240, used 170857464, increment 0
+Initial loss: 9.212737496575905
+Time since start: 401.926
+500: time = 35,112000 loss = 4,591942
+Making features
+makeFeatures: max memory 477626368, total allocated 320864256, free 128669432, used 192194824, increment 21337360
+Azorella_madreporica wc2.1_10m_bio_7: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 341835776, free 113411736, used 228424040, increment 36229216
+linearPredictor: max memory 477626368, total allocated 341835776, free 113411736, used 228424040, increment 0
+FeaturedSpace: max memory 477626368, total allocated 341835776, free 109873784, used 231961992, increment 3537952
+Sequential: max memory 477626368, total allocated 341835776, free 109873784, used 231961992, increment 0
+Initial loss: 9.212737496575905
+Time since start: 403.255
+500: time = 35,199000 loss = 4,594322
+Making features
+makeFeatures: max memory 477626368, total allocated 354418688, free 64429672, used 289989016, increment 58027024
+Azorella_madreporica wc2.1_10m_bio_8: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 360710144, free 96670664, used 264039480, increment -25949536
+linearPredictor: max memory 477626368, total allocated 360710144, free 96670664, used 264039480, increment 0
+FeaturedSpace: max memory 477626368, total allocated 360710144, free 95091392, used 265618752, increment 1579272
+Sequential: max memory 477626368, total allocated 360710144, free 95091392, used 265618752, increment 0
+Initial loss: 9.212737496575905
+Time since start: 438.35
+500: time = 35,875000 loss = 4,591096
+Making features
+makeFeatures: max memory 477626368, total allocated 368050176, free 151811272, used 216238904, increment -49379848
+Azorella_madreporica wc2.1_10m_bio_9: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 372768768, free 254005112, used 118763656, increment -97475248
+linearPredictor: max memory 477626368, total allocated 372768768, free 253924904, used 118843864, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 372768768, free 251739608, used 121029160, increment 2185296
+Sequential: max memory 477626368, total allocated 372768768, free 251739608, used 121029160, increment 0
+Initial loss: 9.212737496575905
+Time since start: 440.018
+500: time = 36,104000 loss = 4,626144
+Making features
+makeFeatures: max memory 477626368, total allocated 362807296, free 118198016, used 244609280, increment 123580120
+Azorella_madreporica wc2.1_10m_bio_1: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 362807296, free 107753848, used 255053448, increment 10444168
+linearPredictor: max memory 477626368, total allocated 362807296, free 107753848, used 255053448, increment 0
+FeaturedSpace: max memory 477626368, total allocated 362807296, free 107753848, used 255053448, increment 0
+Sequential: max memory 477626368, total allocated 362807296, free 107753848, used 255053448, increment 0
+Initial loss: 9.212737496575905
+Time since start: 442.005
+180: time = 1,950000 loss = 7,943945
+Res.gain: 1.2687920232072045
+Making features
+makeFeatures: max memory 477626368, total allocated 334495744, free 188751816, used 145743928, increment -109309520
+Azorella_madreporica wc2.1_10m_bio_10: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 334495744, free 179413104, used 155082640, increment 9338712
+linearPredictor: max memory 477626368, total allocated 334495744, free 179332896, used 155162848, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 334495744, free 178059208, used 156436536, increment 1273688
+Sequential: max memory 477626368, total allocated 334495744, free 178059208, used 156436536, increment 0
+Initial loss: 9.212737496575905
+Time since start: 443.995
+180: time = 1,949000 loss = 8,387324
+Res.gain: 0.8254130962971242
+Making features
+makeFeatures: max memory 477626368, total allocated 311427072, free 123567720, used 187859352, increment 31422816
+Azorella_madreporica wc2.1_10m_bio_11: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 311427072, free 114689560, used 196737512, increment 8878160
+linearPredictor: max memory 477626368, total allocated 311427072, free 114609352, used 196817720, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 311427072, free 114609352, used 196817720, increment 0
+Sequential: max memory 477626368, total allocated 311427072, free 114609352, used 196817720, increment 0
+Initial loss: 9.212737496575905
+Time since start: 445.438
+100: time = 1,410000 loss = 7,457286
+Res.gain: 1.7554515506183845
+Making features
+makeFeatures: max memory 477626368, total allocated 316669952, free 186951656, used 129718296, increment -67099424
+Azorella_madreporica wc2.1_10m_bio_12: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 316669952, free 178430456, used 138239496, increment 8521200
+linearPredictor: max memory 477626368, total allocated 316669952, free 178350248, used 138319704, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 316669952, free 178350248, used 138319704, increment 0
+Sequential: max memory 477626368, total allocated 316669952, free 178350248, used 138319704, increment 0
+Initial loss: 9.212737496575905
+120: time = 0,925000 loss = 8,983513
+Res.gain: 0.2292244985187093
+Making features
+makeFeatures: max memory 477626368, total allocated 324534272, free 113548960, used 210985312, increment 72665608
+Azorella_madreporica wc2.1_10m_bio_13: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 324534272, free 108136984, used 216397288, increment 5411976
+linearPredictor: max memory 477626368, total allocated 324534272, free 108056776, used 216477496, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 324534272, free 108056776, used 216477496, increment 0
+Sequential: max memory 477626368, total allocated 324534272, free 108056776, used 216477496, increment 0
+Initial loss: 9.212737496575905
+Time since start: 447.261
+180: time = 0,848000 loss = 9,110328
+Res.gain: 0.1024097666788002
+Making features
+makeFeatures: max memory 477626368, total allocated 313524224, free 193825952, used 119698272, increment -96779224
+Azorella_madreporica wc2.1_10m_bio_14: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 313524224, free 186375960, used 127148264, increment 7449992
+linearPredictor: max memory 477626368, total allocated 313524224, free 186375960, used 127148264, increment 0
+FeaturedSpace: max memory 477626368, total allocated 313524224, free 186375960, used 127148264, increment 0
+Sequential: max memory 477626368, total allocated 313524224, free 186375960, used 127148264, increment 0
+Initial loss: 9.212737496575905
+160: time = 0,775000 loss = 8,935803
+Res.gain: 0.2769344998263801
+Making features
+makeFeatures: max memory 477626368, total allocated 307757056, free 190613480, used 117143576, increment -10004688
+Azorella_madreporica wc2.1_10m_bio_15: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 307757056, free 185627240, used 122129816, increment 4986240
+linearPredictor: max memory 477626368, total allocated 307757056, free 185547032, used 122210024, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 307757056, free 185547032, used 122210024, increment 0
+Sequential: max memory 477626368, total allocated 307757056, free 185547032, used 122210024, increment 0
+Initial loss: 9.212737496575905
+Time since start: 449.416
+140: time = 1,327000 loss = 9,067072
+Res.gain: 0.1456653998012598
+Making features
+makeFeatures: max memory 477626368, total allocated 291504128, free 102937688, used 188566440, increment 66356416
+Azorella_madreporica wc2.1_10m_bio_16: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 291504128, free 95686936, used 195817192, increment 7250752
+linearPredictor: max memory 477626368, total allocated 291504128, free 95686936, used 195817192, increment 0
+FeaturedSpace: max memory 477626368, total allocated 291504128, free 94693360, used 196810768, increment 993576
+Sequential: max memory 477626368, total allocated 291504128, free 94693360, used 196810768, increment 0
+Initial loss: 9.212737496575905
+Time since start: 450.515
+200: time = 1,072000 loss = 9,044124
+Res.gain: 0.16861380450687413
+Making features
+makeFeatures: max memory 477626368, total allocated 295698432, free 137967336, used 157731096, increment -39079672
+Azorella_madreporica wc2.1_10m_bio_17: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 295698432, free 132110056, used 163588376, increment 5857280
+linearPredictor: max memory 477626368, total allocated 295698432, free 132110056, used 163588376, increment 0
+FeaturedSpace: max memory 477626368, total allocated 295698432, free 130904696, used 164793736, increment 1205360
+Sequential: max memory 477626368, total allocated 295698432, free 130904696, used 164793736, increment 0
+Initial loss: 9.212737496575905
+160: time = 0,771000 loss = 8,918141
+Res.gain: 0.2945960230773661
+Making features
+makeFeatures: max memory 477626368, total allocated 289406976, free 129637040, used 159769936, increment -5023800
+Azorella_madreporica wc2.1_10m_bio_18: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 289406976, free 120798224, used 168608752, increment 8838816
+linearPredictor: max memory 477626368, total allocated 289406976, free 120718016, used 168688960, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 289406976, free 119429248, used 169977728, increment 1288768
+Sequential: max memory 477626368, total allocated 289406976, free 119429248, used 169977728, increment 0
+Initial loss: 9.212737496575905
+Time since start: 453.43
+400: time = 2,089000 loss = 8,272789
+Res.gain: 0.9399487540695723
+Making features
+makeFeatures: max memory 477626368, total allocated 284688384, free 123776808, used 160911576, increment -9066152
+Azorella_madreporica wc2.1_10m_bio_19: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 284688384, free 118297600, used 166390784, increment 5479208
+linearPredictor: max memory 477626368, total allocated 284688384, free 118217392, used 166470992, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 284688384, free 117095920, used 167592464, increment 1121472
+Sequential: max memory 477626368, total allocated 284688384, free 117095920, used 167592464, increment 0
+Initial loss: 9.212737496575905
+180: time = 0,820000 loss = 8,584254
+Res.gain: 0.6284837486148316
+Making features
+makeFeatures: max memory 477626368, total allocated 276824064, free 150932616, used 125891448, increment -41701016
+Azorella_madreporica wc2.1_10m_bio_2: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 276824064, free 141885664, used 134938400, increment 9046952
+linearPredictor: max memory 477626368, total allocated 276824064, free 141805456, used 135018608, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 276824064, free 140753560, used 136070504, increment 1051896
+Sequential: max memory 477626368, total allocated 276824064, free 140753560, used 136070504, increment 0
+Initial loss: 9.212737496575905
+Time since start: 454.991
+60: time = 0,693000 loss = 8,757645
+Res.gain: 0.4550927052603768
+Making features
+makeFeatures: max memory 477626368, total allocated 283639808, free 128411400, used 155228408, increment 19157904
+Azorella_madreporica wc2.1_10m_bio_3: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 283639808, free 119678256, used 163961552, increment 8733144
+linearPredictor: max memory 477626368, total allocated 283639808, free 119678256, used 163961552, increment 0
+FeaturedSpace: max memory 477626368, total allocated 283639808, free 119678256, used 163961552, increment 0
+Sequential: max memory 477626368, total allocated 283639808, free 119678256, used 163961552, increment 0
+Initial loss: 9.212737496575905
+Time since start: 458.232
+360: time = 3,222000 loss = 7,756046
+Res.gain: 1.4566912989744294
+Making features
+makeFeatures: max memory 477626368, total allocated 315621376, free 102514272, used 213107104, increment 49145552
+Azorella_madreporica wc2.1_10m_bio_4: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 315621376, free 97476072, used 218145304, increment 5038200
+linearPredictor: max memory 477626368, total allocated 315621376, free 97395864, used 218225512, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 315621376, free 96139832, used 219481544, increment 1256032
+Sequential: max memory 477626368, total allocated 315621376, free 96139832, used 219481544, increment 0
+Initial loss: 9.212737496575905
+Time since start: 461.178
+360: time = 2,924000 loss = 7,471827
+Res.gain: 1.7409106640043266
+Making features
+makeFeatures: max memory 477626368, total allocated 326631424, free 105394456, used 221236968, increment 1755424
+Azorella_madreporica wc2.1_10m_bio_5: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 326631424, free 97412728, used 229218696, increment 7981728
+linearPredictor: max memory 477626368, total allocated 326631424, free 97412728, used 229218696, increment 0
+FeaturedSpace: max memory 477626368, total allocated 326631424, free 97412728, used 229218696, increment 0
+Sequential: max memory 477626368, total allocated 326631424, free 97412728, used 229218696, increment 0
+Initial loss: 9.212737496575905
+Time since start: 464.155
+360: time = 2,954000 loss = 8,556310
+Res.gain: 0.6564272331090901
+Making features
+makeFeatures: max memory 477626368, total allocated 316145664, free 160246552, used 155899112, increment -73319584
+Azorella_madreporica wc2.1_10m_bio_6: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 316145664, free 154043336, used 162102328, increment 6203216
+linearPredictor: max memory 477626368, total allocated 316145664, free 153963128, used 162182536, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 316145664, free 153963128, used 162182536, increment 0
+Sequential: max memory 477626368, total allocated 316145664, free 153963128, used 162182536, increment 0
+Initial loss: 9.212737496575905
+Time since start: 466.01
+220: time = 1,831000 loss = 7,502565
+Res.gain: 1.71017262993613
+Making features
+makeFeatures: max memory 477626368, total allocated 328728576, free 128882912, used 199845664, increment 37663128
+Azorella_madreporica wc2.1_10m_bio_7: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 328728576, free 120095816, used 208632760, increment 8787096
+linearPredictor: max memory 477626368, total allocated 328728576, free 120095816, used 208632760, increment 0
+FeaturedSpace: max memory 477626368, total allocated 328728576, free 120095816, used 208632760, increment 0
+Sequential: max memory 477626368, total allocated 328728576, free 120095816, used 208632760, increment 0
+Initial loss: 9.212737496575905
+Time since start: 468.123
+240: time = 2,092000 loss = 8,325650
+Res.gain: 0.8870875779504832
+Making features
+makeFeatures: max memory 477626368, total allocated 296222720, free 115238560, used 180984160, increment -27648600
+Azorella_madreporica wc2.1_10m_bio_8: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 296222720, free 108762664, used 187460056, increment 6475896
+linearPredictor: max memory 477626368, total allocated 296222720, free 108682456, used 187540264, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 296222720, free 108682456, used 187540264, increment 0
+Sequential: max memory 477626368, total allocated 296222720, free 108682456, used 187540264, increment 0
+Initial loss: 9.212737496575905
+Time since start: 469.229
+100: time = 1,082000 loss = 7,471241
+Res.gain: 1.7414960164873197
+Making features
+makeFeatures: max memory 477626368, total allocated 298844160, free 142228888, used 156615272, increment -30924992
+Azorella_madreporica wc2.1_10m_bio_9: 
+Regularization values: linear/quadratic/product: 0.365, categorical: 0.250, threshold: 1.760, hinge: 0.500
+24 samples
+Density: max memory 477626368, total allocated 298844160, free 136334152, used 162510008, increment 5894736
+linearPredictor: max memory 477626368, total allocated 298844160, free 136253944, used 162590216, increment 80208
+FeaturedSpace: max memory 477626368, total allocated 298844160, free 136253944, used 162590216, increment 0
+Sequential: max memory 477626368, total allocated 298844160, free 136253944, used 162590216, increment 0
+Initial loss: 9.212737496575905
+Time since start: 471.673
+300: time = 2,421000 loss = 7,642264
+Res.gain: 1.570473135791996
+Time since start: 477.454
+500: time = 38,346000 loss = 4,591164
+Ending
